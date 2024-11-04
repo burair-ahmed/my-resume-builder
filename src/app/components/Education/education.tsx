@@ -1,0 +1,32 @@
+export default function Education() {
+  return (
+    <div className="mx-auto w-11/12">
+      <div>
+        <h1 className="font-bold text-xl">Education</h1>
+      </div>
+      <hr className="my-4 border-t-2 border-grey-900 w-3/5 p-0" />
+      <div className="grid grid-cols-12 mx-auto w-11/12">
+        <div className="col-span-6">
+          <div className="grid grid-rows-2">
+            <div className="row-span-1">
+              <h1>Hellowwwwww!</h1>
+            </div>
+            <div className="row-span-1">
+              <h1>Hellowwwwww!</h1>
+            </div>
+          </div>
+        </div>
+        <div className="col-span-6">
+          <div className="grid grid-rows-2">
+            <div className="row-span-1">
+              <h1>Hellowwwwww!</h1>
+            </div>
+            <div className="row-span-1">
+              <h1>Hellowwwwww!</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
