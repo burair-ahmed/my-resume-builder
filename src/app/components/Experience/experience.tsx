@@ -27,7 +27,11 @@ export default function Experience() {
             </div>
           </div>
           <div className="col-span-12">
-            <h1>Helowww!!!!!</h1>
+            <ul className="list-disc">
+                <li>Developed and maintained scalable, full-stack web applications using the MERN (MongoDB, Express.js, React.js,
+and Node.js) stack, ensuring seamless integration between the front end and back end for efficient and responsive
+user experiences.</li>
+            </ul>
           </div>
         </div>
       </div>
